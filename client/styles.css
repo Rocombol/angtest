@@ -1,0 +1,11 @@
+TD {
+    border: 1px solid black;
+}
+
+.hp-true {
+    background-color: RGB(249, 201, 16);
+}
+
+.edit{
+	width: 600px;
+}
